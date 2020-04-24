@@ -1,2 +1,0 @@
-# nazlicanguner.github.io
-MyWebSite
